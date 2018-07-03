@@ -340,9 +340,9 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 				</div>
 				<div class="col-md-6">
 					<div class="packages_right packages_right2">
-						<h3>Aparecida</h3>
-						<p>Um dos principais destinos turísticos do estado de São Paulo, Aparecida se orgulha de abrigar o maior santuário do mundo
-                                                    dedicado à Nossa Senhora. O movimento intenso não se restringe ao feriado de 12 de outubro, dia da padroeira do Brasil,
+						<h3>Aparecida do Norte</h3>
+						<p>Um dos principais destinos turísticos religiosos do estado de São Paulo, Aparecida se orgulha de abrigar o maior Santuário do mundo
+                                                    dedicado à Nossa Senhora. O movimento intenso não se restringe ao feriado de 12 de outubro, dia da Padroeira do Brasil,
                                                     quando mais de 200 mil romeiros visitam a cidade para ver a imagem da santa, encontrada por pescadores em 1717. 
                                                     Os hotéis da região ficam lotados também nos finais de semana comuns. 
                                                 </p>
@@ -373,7 +373,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 				<div class="team-agile">
 					<h4>Penedo</h4>
 					<p>No cenário da pequena vila estão a Casa do Papai Noel, fábricas de chocolate, construções em estilo enxaimel e muitas araucárias.
-                                            Mas não estamos nos referindo a nenhum destino nórdico... E sim ao simpático distrito de Penedo, 
+                                            Mas não estamos nos referindo a nenhum destino nórdico... E sim ao simpático distrito de Penedo próxima ao Parque de Itatiaia 
                                             aos pés da Serra da Mantiqueira, entre o Rio e São Paulo! Colonizada pelos finlandeses na década de 20, 
                                             a região ainda mantém os costumes e a cultura de seus fundadores com direito à vigorosa gastronomia típica - que aqui ganhou a companhia das trutas 
                                             , construções em madeira e cercadas por jardins floridos e bailes à moda da Finlândia que colocam todo mundo para dançar.</p>
