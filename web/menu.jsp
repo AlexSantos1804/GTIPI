@@ -1,0 +1,1 @@
+<a href="/GTIPI/sair.jsp">Sair</a>
